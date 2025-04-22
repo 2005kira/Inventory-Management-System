@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.swp
+
+# Data files
+*.db
+*.xlsx
+
+# Environment
+.env
+venv/
+
+# Docker
+docker-compose.override.yml
